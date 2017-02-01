@@ -1,6 +1,6 @@
 {
   "name": "donejs-documentjs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A plugin for adding DocumentJS to your DoneJS application",
   "homepage": "http://donejs.com/",
   "author": {
