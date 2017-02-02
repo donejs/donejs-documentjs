@@ -1,0 +1,8 @@
+{
+  "name": "package-json-app",
+  "steal": {
+    "directories": {
+      "lib": "directories-lib"
+    }
+  }
+}
