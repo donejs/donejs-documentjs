@@ -1,5 +1,7 @@
 # donejs-documentjs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/donejs/donejs-documentjs.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/donejs/donejs-documentjs.svg?branch=master)](https://travis-ci.org/donejs/donejs-documentjs)
 [![npm version](https://badge.fury.io/js/donejs-documentjs.svg)](http://badge.fury.io/js/donejs-documentjs)
 
