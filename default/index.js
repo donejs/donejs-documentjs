@@ -20,7 +20,7 @@ module.exports = Generator.extend({
   },
 
   installingDocumentJS: function() {
-    this.npmInstall(['documentjs'], { 'saveDev': true });
+    this.npmInstall(['documentjs@0.4.x'], { 'saveDev': true });
   },
 
   prompting: function () {
