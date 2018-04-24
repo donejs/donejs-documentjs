@@ -23,7 +23,7 @@
     "DoneJS"
   ],
   "dependencies": {
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.9",
     "yeoman-generator": "^1.1.0"
   },
   "devDependencies": {
