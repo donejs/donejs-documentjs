@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "lodash": "^4.17.4",
-    "yeoman-generator": "^1.1.0"
+    "yeoman-generator": "^4.8.0"
   },
   "devDependencies": {
     "fs-extra": "^2.0.0",
